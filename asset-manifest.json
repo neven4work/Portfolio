@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.1bac7653.css",
+    "main.js": "/Portfolio/static/js/main.76b867a1.js",
+    "static/media/Hotels (1).png": "/Portfolio/static/media/Hotels (1).676ce6055a98cce38a9f.png",
+    "static/media/Game-Theory.png": "/Portfolio/static/media/Game-Theory.5fa8f4a61886db66f88b.png",
+    "static/media/neven.jpg": "/Portfolio/static/media/neven.cd58a2877042f5a4308e.jpg",
+    "static/media/Screenshot (56).png": "/Portfolio/static/media/Screenshot (56).6228daa3c182ddf240a0.png",
+    "static/media/front.png": "/Portfolio/static/media/front.3864a5e3d1a0f73f0f82.png",
+    "static/media/operations.jpg": "/Portfolio/static/media/operations.724402a24dfc8a9795ea.jpg",
+    "static/media/work-steps.png": "/Portfolio/static/media/work-steps.b824d615bf983904bc86.png",
+    "static/media/testing.jpg": "/Portfolio/static/media/testing.77bc12bac3973af41b08.jpg",
+    "static/media/tutor.jpg": "/Portfolio/static/media/tutor.fd77564fee716f5b52ec.jpg",
+    "static/media/database.jpg": "/Portfolio/static/media/database.b38c4e8cecc35580db8a.jpg",
+    "static/media/photo_2025-05-15_16-35-16.jpg": "/Portfolio/static/media/photo_2025-05-15_16-35-16.38d7a67af5d32e6c6ca5.jpg",
+    "static/media/work-steps-1.png": "/Portfolio/static/media/work-steps-1.dbba1cac7c42ab81f7cb.png",
+    "static/media/freelance.jpg": "/Portfolio/static/media/freelance.f5da53de05aad9a1a411.jpg",
+    "static/media/work-steps-3.png": "/Portfolio/static/media/work-steps-3.b4891cbb7903d573e0f9.png",
+    "static/media/photo_2024-03-18_08-04-08.jpg": "/Portfolio/static/media/photo_2024-03-18_08-04-08.c4f8f8d45be3f6280a99.jpg",
+    "static/media/work-steps-2.png": "/Portfolio/static/media/work-steps-2.4482766b3edf3ed31733.png",
+    "static/media/source.jpg": "/Portfolio/static/media/source.c1731d6d5d545a88cdb9.jpg",
+    "index.html": "/Portfolio/index.html",
+    "main.1bac7653.css.map": "/Portfolio/static/css/main.1bac7653.css.map",
+    "main.76b867a1.js.map": "/Portfolio/static/js/main.76b867a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bac7653.css",
+    "static/js/main.76b867a1.js"
+  ]
+}
