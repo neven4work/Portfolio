@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.1bac7653.css",
-    "main.js": "/Portfolio/static/js/main.4a2d466a.js",
+    "main.js": "/Portfolio/static/js/main.91bfb6a4.js",
     "static/media/Hotels (1).png": "/Portfolio/static/media/Hotels (1).676ce6055a98cce38a9f.png",
     "static/media/Game-Theory.png": "/Portfolio/static/media/Game-Theory.5fa8f4a61886db66f88b.png",
     "static/media/neven.jpg": "/Portfolio/static/media/neven.cd58a2877042f5a4308e.jpg",
@@ -21,10 +21,10 @@
     "static/media/source.jpg": "/Portfolio/static/media/source.c1731d6d5d545a88cdb9.jpg",
     "index.html": "/Portfolio/index.html",
     "main.1bac7653.css.map": "/Portfolio/static/css/main.1bac7653.css.map",
-    "main.4a2d466a.js.map": "/Portfolio/static/js/main.4a2d466a.js.map"
+    "main.91bfb6a4.js.map": "/Portfolio/static/js/main.91bfb6a4.js.map"
   },
   "entrypoints": [
     "static/css/main.1bac7653.css",
-    "static/js/main.4a2d466a.js"
+    "static/js/main.91bfb6a4.js"
   ]
 }
