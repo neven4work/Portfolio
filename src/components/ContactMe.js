@@ -19,7 +19,6 @@ const ContactMe = () => {
           height: "30px",
           left: 0,
           bottom: "100%",
-    
         },
       }}
     >
@@ -132,13 +131,6 @@ const ContactMe = () => {
                 <LocationOnIcon />
               </Box>
               Syria, Damascus, Mazzeh
-            </Typography>
-
-            <Typography sx={{ display: "flex", alignItems: "center" }}>
-              <Box component="span" sx={{ mr: 1, mt: 1 }}>
-                <PhoneInTalkIcon />
-              </Box>
-              +963 937 395 586
             </Typography>
           </Box>
         </Grid>
